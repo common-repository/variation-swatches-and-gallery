@@ -1,0 +1,110 @@
+{
+    "packages": [
+        {
+            "name": "zqelab/wp-settings-api",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zqelab/wp-settings-api.git",
+                "reference": "26b96f4417fbb46821fe7789254f957a33b6cf3d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zqelab/wp-settings-api/zipball/26b96f4417fbb46821fe7789254f957a33b6cf3d",
+                "reference": "26b96f4417fbb46821fe7789254f957a33b6cf3d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "time": "2022-10-26T14:11:45+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "ZQE",
+                    "email": "dev@zqe.io",
+                    "homepage": "https://zqe.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "WordPress settings api Class to make option page",
+            "homepage": "https://github.com/zqelab/wp-settings-api",
+            "keywords": [
+                "settings-api",
+                "wordpress",
+                "wp"
+            ],
+            "support": {
+                "issues": "https://github.com/zqelab/wp-settings-api/issues",
+                "source": "https://github.com/zqelab/wp-settings-api/tree/main"
+            },
+            "install-path": "../zqelab/wp-settings-api"
+        },
+        {
+            "name": "zqelab/wp-term-meta",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zqelab/wp-term-meta.git",
+                "reference": "5d1ed9d2ee05ef10e2ad7fcfcf76e9708bec0302"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zqelab/wp-term-meta/zipball/5d1ed9d2ee05ef10e2ad7fcfcf76e9708bec0302",
+                "reference": "5d1ed9d2ee05ef10e2ad7fcfcf76e9708bec0302",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "time": "2022-11-06T20:59:54+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "ZQE",
+                    "email": "dev@zqe.io",
+                    "homepage": "https://zqe.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "WordPress term-meta Class to make option page",
+            "homepage": "https://github.com/zqelab/wp-term-meta",
+            "keywords": [
+                "term-meta",
+                "wordpress",
+                "wp"
+            ],
+            "support": {
+                "issues": "https://github.com/zqelab/wp-term-meta/issues",
+                "source": "https://github.com/zqelab/wp-term-meta/tree/master"
+            },
+            "install-path": "../zqelab/wp-term-meta"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
